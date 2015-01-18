@@ -1020,7 +1020,12 @@ padding-right:30px;
 color: inherit;
 }
 
+article li{
+line-height: 1.6em;
 
+font-size: 1em;
+
+}
 
 article p{
 line-height: 1.6em;
