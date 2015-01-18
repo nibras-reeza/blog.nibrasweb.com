@@ -984,6 +984,10 @@ margin:1% !important;
 	text-align:right;
 }
 
+h1,h2,h3,h4,h5,h6{
+
+	margin-bottom: 0.5em;
+}
 h2{
 font-size: 16px;
 line-height:20px ;
@@ -1032,4 +1036,6 @@ line-height: 1.6em;
 font-weight: 400;
 font-size: 1em;
 color: #6F6F6F;
+margin-bottom: 1.6em;
 }
+
