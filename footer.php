@@ -19,12 +19,21 @@
 
             <ul class="social-links">
                <li><a href="http://fb.nibrasweb.com"><i class="fa fa-facebook"></i></a></li>
-               <li><a href="http://twitter.nibrasweb.com"><i class="fa fa-twitter"></i></a></li>
-               <li><a href="http://plus.nibrasweb.com"><i class="fa fa-google-plus"></i></a></li>
-               <li><a href="http://in.nibrasweb.com"><i class="fa fa-linkedin"></i></a></li>
-               <li><a href="http://so.nibrasweb.com"><i class="fa fa-stack-overflow"></i></a></li>
-               <li><a href="http://git.nibrasweb.com"><i class="fa fa-github"></i></a></li>
-               <li><a href="skype:rnibras_ahamed?call"><i class="fa fa-skype"></i></a></li>
+					<li><a href="http://twitter.nibrasweb.com"><i
+							class="fa fa-twitter"></i></a></li>
+					<li><a href="http://plus.nibrasweb.com"><i
+							class="fa fa-google-plus"></i></a></li>
+					<li><a href="http://in.nibrasweb.com"><i
+							class="fa fa-linkedin"></i></a></li>
+					
+					<li><a href="http://git.nibrasweb.com"><i
+							class="fa fa-github"></i></a></li>
+							<li><a href="http://xda.nibrasweb.com"><img
+							class="fa" src="images/xda.png" style="height: 1em;"></img></a></li>
+							<li><a href="http://so.nibrasweb.com"><i
+							class="fa fa-stack-overflow"></i></a></li>
+					<li><a href="skype:rnibras_ahamed?call"><i
+							class="fa fa-skype"></i></a></li>
             </ul>
 
             <ul class="copyright">
