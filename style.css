@@ -818,7 +818,7 @@ article .header-col header{
 
 body{
 background-color: #212121;
-background-image: url("http://www.nibrasweb.com/images/header-background.jpg");
+background-image: url("../images/header-background.jpg");
 	background-attachment: fixed;
 	background-position: center top;
 	background-repeat: no-repeat;
@@ -829,6 +829,33 @@ background-origin: padding-box;
 background-size: cover !important;
 text-align: center;
 }
+
+
+@media all and (max-width: 360px){
+body{
+	background-image: url("../images/header-background-360p.jpg");
+}
+}
+
+@media all and (max-width: 480px){
+	body{
+	background-image: url("../images/header-background-480p.jpg");
+}
+}
+
+@media all and (max-width: 640px){
+	body{
+	background-image: url("../images/header-background-640p.jpg");
+}
+}
+
+@media all and (max-width: 1280px){
+	body{
+	background-image: url("../images/header-background-720p.jpg");
+}
+}
+
+
 
 hr{
 	margin-bottom: 0px;
