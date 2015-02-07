@@ -25,12 +25,12 @@
 	
    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/default.css">
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/layout.css">
-   <link rel="stylesheet" href="http://www.nibrasweb.com/css/media-queries.css">
-   <link rel="stylesheet" href="http://www.nibrasweb.com/css/magnific-popup.css">
+   <link rel="stylesheet" href="../css/media-queries.css">
+   <link rel="stylesheet" href="../css/magnific-popup.css">
    
 
   
-	<script src="http://www.nibrasweb.com/js/modernizr.js"></script>
+	<script src="../js/modernizr.js"></script>
 
    
 	<link rel="shortcut icon" href="favicon.png" >

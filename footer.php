@@ -56,13 +56,13 @@
 
 
  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-   <script>window.jQuery || document.write('<script src="http://www.nibrasweb.com/js/jquery-1.10.2.min.js"><\/script>')</script>
-   <script type="text/javascript" src="http://www.nibrasweb.com/js/jquery-migrate-1.2.1.min.js"></script>
+   <script>window.jQuery || document.write('<script src="../js/jquery-1.10.2.min.js"><\/script>')</script>
+   <script type="text/javascript" src="../js/jquery-migrate-1.2.1.min.js"></script>
 
-   <script src="http://www.nibrasweb.com/js/jquery.flexslider.js"></script>
-   <script src="http://www.nibrasweb.com/js/waypoints.js"></script>
-   <script src="http://www.nibrasweb.com/js/jquery.fittext.js"></script>
-   <script src="http://www.nibrasweb.com/js/magnific-popup.js"></script>
+   <script src="../js/jquery.flexslider.js"></script>
+   <script src="../js/waypoints.js"></script>
+   <script src="../js/jquery.fittext.js"></script>
+   <script src="../js/magnific-popup.js"></script>
      <script src="<?php echo get_template_directory_uri(); ?>/js/init.js"></script>
    
 
