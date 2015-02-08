@@ -81,9 +81,6 @@ html {
 	box-sizing: inherit;
 }
 
-body {
-	background: #fff; /* Fallback for when there is no custom background color defined. */
-}
 
 article,
 aside,
@@ -698,9 +695,6 @@ html{
 background: #0F0F0F;
 }
 
-body{
-background:#FFF;
-}
 
 
 
@@ -816,44 +810,6 @@ article .header-col header{
 	overflow: visible;
 }
 
-body{
-background-color: #212121;
-background-image: url("../images/header-background.jpg");
-	background-attachment: fixed;
-	background-position: center top;
-	background-repeat: no-repeat;
-
-background-position: center top;
-background-clip: border-box;
-background-origin: padding-box;
-background-size: cover !important;
-text-align: center;
-}
-
-
-@media all and (max-width: 360px){
-body{
-	background-image: url("../images/header-background-360p.jpg");
-}
-}
-
-@media all and (max-width: 480px){
-	body{
-	background-image: url("../images/header-background-480p.jpg");
-}
-}
-
-@media all and (max-width: 640px){
-	body{
-	background-image: url("../images/header-background-640p.jpg");
-}
-}
-
-@media all and (max-width: 1280px){
-	body{
-	background-image: url("../images/header-background-720p.jpg");
-}
-}
 
 
 

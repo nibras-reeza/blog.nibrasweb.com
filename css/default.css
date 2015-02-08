@@ -152,6 +152,9 @@ body {
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
 }
+body {
+	background: #fff; /* Fallback for when there is no custom background color defined. */
+}
 
 /*  2. Typography
        Vertical rhythm with leading derived from 6
