@@ -29,7 +29,8 @@
 					<li><a href="http://git.nibrasweb.com"><i
 							class="fa fa-github"></i></a></li>
 							<li><a href="http://xda.nibrasweb.com"><img
-							class="fa" src="images/xda-footer.png" style="height: 1em;" onmouseover="this.src='images/xda.png'" onmouseout="this.src='images/xda-footer.png'"></img></a></li>
+							class="fa" src="<?php echo get_template_directory_uri(); ?>/images/xda-footer.png" style="height: 1em;     transition: src 0.3s ease-in-out 0s;
+" onmouseover="this.src='<?php echo get_template_directory_uri(); ?>/images/xda.png'" onmouseout="this.src='<?php echo get_template_directory_uri(); ?>/images/xda-footer.png'"></img></a></li>
 							<li><a href="http://so.nibrasweb.com"><i
 							class="fa fa-stack-overflow"></i></a></li>
 					<li><a href="skype:rnibras_ahamed?call"><i
@@ -56,13 +57,13 @@
 
 
  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-   <script>window.jQuery || document.write('<script src="../js/jquery-1.10.2.min.js"><\/script>')</script>
-   <script type="text/javascript" src="../js/jquery-migrate-1.2.1.min.js"></script>
+   <script>window.jQuery || document.write('<script src="<?php echo get_template_directory_uri(); ?>/js/jquery-1.10.2.min.js"><\/script>')</script>
+   <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery-migrate-1.2.1.min.js"></script>
 
-   <script src="../js/jquery.flexslider.js"></script>
-   <script src="../js/waypoints.js"></script>
-   <script src="../js/jquery.fittext.js"></script>
-   <script src="../js/magnific-popup.js"></script>
+   <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.flexslider.js"></script>
+   <script src="<?php echo get_template_directory_uri(); ?>/js/waypoints.js"></script>
+   <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.fittext.js"></script>
+   <script src="<?php echo get_template_directory_uri(); ?>/js/magnific-popup.js"></script>
      <script src="<?php echo get_template_directory_uri(); ?>/js/init.js"></script>
    
 

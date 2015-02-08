@@ -25,12 +25,12 @@
 	
    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/default.css">
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/layout.css">
-   <link rel="stylesheet" href="../css/media-queries.css">
-   <link rel="stylesheet" href="../css/magnific-popup.css">
+   <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/media-queries.css">
+   <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/magnific-popup.css">
    
 
   
-	<script src="../js/modernizr.js"></script>
+	<script src="<?php echo get_template_directory_uri(); ?>/js/modernizr.js"></script>
 
    
 	<link rel="shortcut icon" href="favicon.png" >
